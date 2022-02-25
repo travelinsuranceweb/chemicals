@@ -24,7 +24,7 @@ var xxx=null;
 if(x=="1"){xxx="disclosure-of-private-information-and.html"}
 if(x=="2"){xxx="easy-natural-beauty-skin-care-solutions.html"}
 if(x=="3"){xxx="icca-report-highlights-chemical.html"}
-if(x=="4"){xxx="the-german-chemical-industry-in-figures.html"}a_to_ve[i].href="https://kompisafelinkv2.blogspot.com/2016/12/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="the-german-chemical-industry-in-figures.html"}a_to_ve[i].href="https://web.samehada.my.id/2022/02/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
